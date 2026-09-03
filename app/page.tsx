@@ -63,7 +63,7 @@ export default function Home() {
       <div className="mx-auto max-w-5xl">
         <div className="mb-6 flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold">Data Siswa</h1>
+            <h1 className="text-3xl font-bold">Data Siswa RPL 3</h1>
 
             <p className="mt-1 text-gray-600">CRUD Next.js + Supabase & test deploy Netlify or Vercel</p>
           </div>
